@@ -1,4 +1,4 @@
-# Guidance
+Guidance
 # 1. Import Dependencies
 # 2. Load Model
 # 3. Run Live Detection
