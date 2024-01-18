@@ -15,4 +15,4 @@ Team Name: Tech Me Out
 4. Valencia Melita Christy (Hustler)
 
 # Product Description
-# DriveGuard is an Android-Based Appilcation designed to address serious issue of fatal accidents due to driver fatigue. The app will detect microsleep by utilizing sensors and AI technology, providing instant alerts to the driver, and offering quick solutions such as an alarm or playing energetic music. Apart from that, this idea also includes recommendations for nearby rest areas, such as rest facilities, cafes and parking areas to ensure drivers can rest safely. 
+DriveGuard is an Android-Based Appilcation designed to address serious issue of fatal accidents due to driver fatigue. The app will detect microsleep by utilizing sensors and AI technology, providing instant alerts to the driver, and offering quick solutions such as an alarm or playing energetic music. Apart from that, this idea also includes recommendations for nearby rest areas, such as rest facilities, cafes and parking areas to ensure drivers can rest safely. 
