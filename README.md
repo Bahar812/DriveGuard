@@ -9,7 +9,6 @@
 
 # Team Description
 Team Name: Tech Me Out
-Members: 
 1. Jessica Theijer (Hipster)
 2. Bahar Al Hamid (Hacker)
 3. Kezia Elice Yulianto (Hacker)
